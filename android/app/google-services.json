@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "10663492433",
+    "project_id": "connect-u-app",
+    "storage_bucket": "connect-u-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10663492433:android:b188d7b69f8e77aa38b170",
+        "android_client_info": {
+          "package_name": "com.getx.app.connectu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10663492433-apcd88j6kdpftvjn5l0tmlj7mgeeide2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD84ATVWuZXqMyQvT9PZxYTi1wiTGXiJvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10663492433-apcd88j6kdpftvjn5l0tmlj7mgeeide2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10663492433-g9en22rjuep3mcf76euk66kme9219c4j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.getx.app.connectu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
